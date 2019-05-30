@@ -7,10 +7,11 @@ int main()
 	{
 		cout << a << endl;
 	}
+	/* Outputs
+	10
+	7
+	4
+	1
+	*/
 }
-/* Outputs
-10
-7
-4
-1
-*/
+/*When using the for loop, don't forget the "semicolon" after the "init" and "condition" statements.*/
