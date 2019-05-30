@@ -18,3 +18,9 @@ int main()
 	Number: 5
 	*/
 }
+
+/*USING INCREMENT OR DECREMENT
+
+The increment or decrement operators can be used to change values in the loop.
+
+num++ is equivalent to num = num + 1*/
